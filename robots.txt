@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-6n88wb.gebyar4dall.cyou/sitemap.xml
